@@ -1,25 +1,29 @@
-# 💫 About Me:
-🛠 I’m currently working on:<br>Building scalable, SEO-friendly websites and full-stack applications for real-world clients (e.g., mc.uz, pin-ag.de).<br><br>🤝 I’m looking to collaborate on:<br>Exciting web projects, startups, or anything involving React, Node.js, or UI/UX design.<br><br>🙋‍♂️ I’m looking for help with:<br>Improving DevOps workflows and learning advanced performance optimization techniques.<br><br>🌱 I’m currently learning:<br>Next.js, TypeScript, and deploying apps with Docker & cloud services.<br><br>💬 Ask me about:<br>Web performance, responsive UI, full-stack development, or building production-ready websites.<br><br>⚡ Fun fact:<br>My production sites are used by 1,000+ real users — and I treat every visitor’s experience like it’s my own.<br>
+## 💫 About Me
+- 🛠 **Current Work**: Building scalable, SEO-friendly full-stack applications (e.g., [mc.uz](https://mc.uz), [pin-ag.de](https://pin-ag.de))
+- 🤝 **Open to Collaborate On**: React, Node.js, UI/UX design projects or startups
+- 🌱 **Currently Learning**: Next.js, TypeScript, Docker & Cloud deployment
+- 💬 **Ask Me About**: Performance optimization, full-stack development, production-ready websites
+- ⚡ **Fun Fact**: My sites serve 1,000+ real users — I treat every user experience like my own
 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humoyun-eshpolatov/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:humoyuneshpolatov554@gmail.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/humoyun-eshpolatov/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:humoyuneshpolatov554@gmail.com) 
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=humoyun-webs&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=humoyun-webs&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=humoyun-webs&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=humoyun-webs&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=humoyun-webs&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=humoyun-webs&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-![snake gif](https://github.com/humoyun-webs/humoyun-webs/blob/output/github-snake-dark.svg)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=humoyun-webs&theme=github_dark&hide_border=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=humoyun-webs&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=humoyun-webs&theme=github_dark&hide_border=true&layout=compact)
