@@ -26,6 +26,5 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=humoyun-webs&theme=github_dark&hide_border=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=humoyun-webs&theme=github_dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=humoyun-webs&theme=github_dark&hide_border=true&layout=compact)
 
 ![snake gif](https://github.com/humoyun-webs/humoyun-webs/blob/output/github-snake-dark.svg)
