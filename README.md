@@ -1,9 +1,9 @@
-## 💫 About Me
-- 🛠 **Current Work**: Building scalable, SEO-friendly full-stack applications (e.g., [mc.uz](https://mc.uz), [pin-ag.de](https://pin-ag.de))
-- 🤝 **Open to Collaborate On**: React, Node.js, UI/UX design projects or startups
-- 🌱 **Currently Learning**: Next.js, TypeScript, Docker & Cloud deployment
-- 💬 **Ask Me About**: Performance optimization, full-stack development, production-ready websites
-- ⚡ **Fun Fact**: My sites serve 1,000+ real users — I treat every user experience like my own
+## About Me
+-  **Current Work**: Building scalable, SEO-friendly full-stack applications (e.g., [mc.uz](https://mc.uz), [pin-ag.de](https://pin-ag.de))
+-  **Open to Collaborate On**: React, Node.js, UI/UX design projects or startups
+-  **Currently Learning**: Next.js, TypeScript, Docker & Cloud deployment
+-  **Ask Me About**: Performance optimization, full-stack development, production-ready websites
+-  **Fun Fact**: My sites serve 1,000+ real users — I treat every user experience like my own
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humoyun-eshpolatov/)
